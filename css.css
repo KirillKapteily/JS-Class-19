@@ -1,0 +1,19 @@
+.style{
+    color: blue;
+}
+
+.none{
+    display: none;
+}
+
+.add{
+    display: block;
+}
+
+.larger{
+    font-size: 60px;
+}
+
+.less{
+    font-size: 30px;
+}
